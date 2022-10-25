@@ -1,0 +1,15 @@
+C:\Users\anna\OneDrive\Repos\labs\Lab7AnnaClark\bin\Debug\net6.0\Lab7AnnaClark.exe
+C:\Users\anna\OneDrive\Repos\labs\Lab7AnnaClark\bin\Debug\net6.0\Lab7AnnaClark.deps.json
+C:\Users\anna\OneDrive\Repos\labs\Lab7AnnaClark\bin\Debug\net6.0\Lab7AnnaClark.runtimeconfig.json
+C:\Users\anna\OneDrive\Repos\labs\Lab7AnnaClark\bin\Debug\net6.0\Lab7AnnaClark.dll
+C:\Users\anna\OneDrive\Repos\labs\Lab7AnnaClark\bin\Debug\net6.0\Lab7AnnaClark.pdb
+C:\Users\anna\OneDrive\Repos\labs\Lab7AnnaClark\obj\Debug\net6.0\Lab7AnnaClark.csproj.AssemblyReference.cache
+C:\Users\anna\OneDrive\Repos\labs\Lab7AnnaClark\obj\Debug\net6.0\Lab7AnnaClark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anna\OneDrive\Repos\labs\Lab7AnnaClark\obj\Debug\net6.0\Lab7AnnaClark.AssemblyInfoInputs.cache
+C:\Users\anna\OneDrive\Repos\labs\Lab7AnnaClark\obj\Debug\net6.0\Lab7AnnaClark.AssemblyInfo.cs
+C:\Users\anna\OneDrive\Repos\labs\Lab7AnnaClark\obj\Debug\net6.0\Lab7AnnaClark.csproj.CoreCompileInputs.cache
+C:\Users\anna\OneDrive\Repos\labs\Lab7AnnaClark\obj\Debug\net6.0\Lab7AnnaClark.dll
+C:\Users\anna\OneDrive\Repos\labs\Lab7AnnaClark\obj\Debug\net6.0\refint\Lab7AnnaClark.dll
+C:\Users\anna\OneDrive\Repos\labs\Lab7AnnaClark\obj\Debug\net6.0\Lab7AnnaClark.pdb
+C:\Users\anna\OneDrive\Repos\labs\Lab7AnnaClark\obj\Debug\net6.0\Lab7AnnaClark.genruntimeconfig.cache
+C:\Users\anna\OneDrive\Repos\labs\Lab7AnnaClark\obj\Debug\net6.0\ref\Lab7AnnaClark.dll
